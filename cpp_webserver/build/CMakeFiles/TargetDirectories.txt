@@ -1,0 +1,3 @@
+/home/jacob/webserver/cpp_webserver/build/CMakeFiles/main.dir
+/home/jacob/webserver/cpp_webserver/build/CMakeFiles/edit_cache.dir
+/home/jacob/webserver/cpp_webserver/build/CMakeFiles/rebuild_cache.dir
